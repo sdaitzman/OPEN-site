@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/sdaitzman/OPEN-site#readme",
   "dependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "sass-loader": "^8.0.2",
     "vuepress": "^1.3.0"
